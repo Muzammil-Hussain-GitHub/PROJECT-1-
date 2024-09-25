@@ -1,0 +1,301 @@
+﻿ProductID,ProductName,Category,UnitPrice
+1,Smartphone,Electronics,700
+2,Laptop,Electronics,1000
+3,Wireless Earbuds,Electronics,150
+4,4K TV,Electronics,900
+5,Smartwatch,Electronics,200
+6,Refrigerator,Home Appliances,1300
+7,Washing Machine,Home Appliances,800
+8,Microwave Oven,Home Appliances,150
+9,Blender,Home Appliances,50
+10,Air Conditioner,Home Appliances,400
+11,Sofa,Furniture,700
+12,Dining Table,Furniture,500
+13,Office Chair,Furniture,130
+14,Bookshelf,Furniture,200
+15,Bed Frame,Furniture,300
+16,T-Shirt,Clothing,20
+17,Jeans,Clothing,50
+18,Jacket,Clothing,80
+19,Sneakers,Clothing,90
+20,Sunglasses,Clothing,130
+21,Cereal,Groceries,5
+22,Milk,Groceries,3
+23,Bread,Groceries,2
+24,Butter,Groceries,4
+25,Cheese,Groceries,6
+26,Tablet,Electronics,400
+27,Headphones,Electronics,80
+28,Gaming Console,Electronics,300
+29,Smart Speaker,Electronics,100
+30,Digital Camera,Electronics,500
+31,Coffee Maker,Home Appliances,90
+32,Toaster,Home Appliances,30
+33,Vacuum Cleaner,Home Appliances,150
+34,Iron,Home Appliances,40
+35,Water Heater,Home Appliances,200
+36,Armchair,Furniture,250
+37,Coffee Table,Furniture,130
+38,TV Stand,Furniture,150
+39,Desk,Furniture,200
+40,Dresser,Furniture,300
+41,Dress,Clothing,60
+42,Suit,Clothing,200
+43,Sweater,Clothing,40
+44,Boots,Clothing,130
+45,Hat,Clothing,25
+46,Pasta,Groceries,3
+47,Olive Oil,Groceries,9
+48,Coffee,Groceries,10
+49,Tea,Groceries,4
+50,Sugar,Groceries,3
+51,Smartphone Case,Electronics,30
+52,Power Bank,Electronics,50
+53,Router,Electronics,100
+54,External Hard Drive,Electronics,130
+55,USB Flash Drive,Electronics,20
+56,Fan,Home Appliances,40
+57,Heater,Home Appliances,60
+58,Dehumidifier,Home Appliances,150
+59,Air Purifier,Home Appliances,200
+60,Dishwasher,Home Appliances,700
+61,Recliner,Furniture,350
+62,Bar Stool,Furniture,80
+63,Bookcase,Furniture,200
+64,Nightstand,Furniture,100
+65,Wardrobe,Furniture,400
+66,Shorts,Clothing,30
+67,Skirt,Clothing,40
+68,Blouse,Clothing,30
+69,Scarf,Clothing,20
+70,Gloves,Clothing,25
+71,Chicken,Groceries,6
+72,Beef,Groceries,10
+73,Salmon,Groceries,15
+74,Apples,Groceries,3
+75,Bananas,Groceries,2
+76,Smart Light Bulb,Electronics,25
+77,Drone,Electronics,500
+78,3D Printer,Electronics,700
+79,Projector,Electronics,300
+80,VR Headset,Electronics,400
+81,Blender Bottle,Home Appliances,15
+82,Juicer,Home Appliances,100
+83,Rice Cooker,Home Appliances,50
+84,Slow Cooker,Home Appliances,80
+85,Deep Fryer,Home Appliances,60
+86,TV Cabinet,Furniture,250
+87,Patio Chair,Furniture,80
+88,Outdoor Table,Furniture,200
+89,Gaming Chair,Furniture,250
+90,Mirror,Furniture,100
+91,Winter Coat,Clothing,150
+92,Swimsuit,Clothing,30
+93,Sandals,Clothing,50
+94,Watch,Clothing,200
+95,Backpack,Clothing,80
+96,Orange Juice,Groceries,4
+97,Soda,Groceries,2
+98,Chips,Groceries,3
+99,Chocolate,Groceries,4
+100,Ice Cream,Groceries,5
+101,Noise-Canceling Headphones,Electronics,300
+102,Electric Kettle,Home Appliances,50
+103,Air Fryer,Home Appliances,130
+104,Electric Grill,Home Appliances,100
+105,Pressure Cooker,Home Appliances,90
+106,Bunk Bed,Furniture,400
+107,Side Table,Furniture,80
+108,Console Table,Furniture,150
+109,File Cabinet,Furniture,100
+110,Ottoman,Furniture,130
+111,Polo Shirt,Clothing,40
+112,Formal Shoes,Clothing,90
+113,Casual Shoes,Clothing,70
+114,Leather Jacket,Clothing,200
+115,Belt,Clothing,20
+116,Spaghetti,Groceries,3
+117,Rice,Groceries,2
+118,Peanut Butter,Groceries,4
+119,Jelly,Groceries,3
+120,Yogurt,Groceries,5
+121,Portable Charger,Electronics,60
+122,Wireless Mouse,Electronics,30
+123,Keyboard,Electronics,50
+124,Webcam,Electronics,70
+125,Laptop Stand,Electronics,40
+126,Ceiling Fan,Home Appliances,150
+127,Table Lamp,Home Appliances,40
+128,Space Heater,Home Appliances,70
+129,Electric Blanket,Home Appliances,60
+130,Humidifier,Home Appliances,80
+131,Kitchen Island,Furniture,500
+132,Chaise Lounge,Furniture,400
+133,Futon,Furniture,300
+134,Vanity,Furniture,350
+135,Room Divider,Furniture,130
+136,Tank Top,Clothing,15
+137,Cargo Pants,Clothing,50
+138,Hoodie,Clothing,60
+139,Blazer,Clothing,130
+140,Socks,Clothing,10
+141,Tomato Sauce,Groceries,3
+142,Salad Dressing,Groceries,4
+143,Canned Beans,Groceries,2
+144,Frozen Vegetables,Groceries,3
+145,Pizza,Groceries,8
+146,Tablet Case,Electronics,20
+147,Smart Thermostat,Electronics,200
+148,Smart Doorbell,Electronics,130
+149,Smart Lock,Electronics,150
+150,Security Camera,Electronics,100
+151,Clothes Dryer,Home Appliances,500
+152,Electric Skillet,Home Appliances,50
+153,Toaster Oven,Home Appliances,80
+154,Espresso Machine,Home Appliances,200
+155,Coffee Grinder,Home Appliances,40
+156,Reclining Sofa,Furniture,800
+157,Pantry Cabinet,Furniture,250
+158,Desk Chair,Furniture,180
+159,Mattress,Furniture,400
+160,Wall Shelves,Furniture,100
+161,Bathing Suit,Clothing,30
+162,Tracksuit,Clothing,80
+163,Raincoat,Clothing,50
+164,Gloves,Clothing,20
+165,Beret,Clothing,15
+166,Oats,Groceries,3
+167,Flour,Groceries,2
+168,Sugar-Free Soda,Groceries,2
+169,Baking Powder,Groceries,2
+170,Granola Bars,Groceries,5
+171,Home Theater System,Electronics,500
+172,Video Doorbell,Electronics,200
+173,Smart Plug,Electronics,25
+174,Wi-Fi Extender,Electronics,40
+175,Digital Photo Frame,Electronics,80
+176,Window Air Conditioner,Home Appliances,250
+177,Portable Air Conditioner,Home Appliances,300
+178,Mini Fridge,Home Appliances,150
+179,Food Processor,Home Appliances,100
+180,Blender,Home Appliances,80
+181,Outdoor Sofa,Furniture,500
+182,Bar Table,Furniture,200
+183,Rocking Chair,Furniture,130
+184,Entertainment Center,Furniture,400
+185,Storage Bench,Furniture,150
+186,Ankle Boots,Clothing,90
+187,Bomber Jacket,Clothing,130
+188,Chinos,Clothing,50
+189,Cardigan,Clothing,40
+190,Pajamas,Clothing,30
+191,Quinoa,Groceries,5
+192,Honey,Groceries,6
+193,Cereal Bars,Groceries,4
+194,Frozen Pizza,Groceries,7
+195,Trail Mix,Groceries,5
+196,Bluetooth Speaker,Electronics,50
+197,HDMI Cable,Electronics,10
+198,Surge Protector,Electronics,20
+199,Power Strip,Electronics,15
+200,USB Cable,Electronics,8
+201,Electric Range,Home Appliances,500
+202,Induction Cooktop,Home Appliances,300
+203,Range Hood,Home Appliances,200
+204,Deep Freezer,Home Appliances,400
+205,Countertop Oven,Home Appliances,200
+206,Loveseat,Furniture,500
+207,Chaise,Furniture,400
+208,Daybed,Furniture,350
+209,Hutch,Furniture,300
+210,Armchair,Furniture,250
+211,Down Jacket,Clothing,150
+212,Fleece Jacket,Clothing,50
+213,Joggers,Clothing,40
+214,Windbreaker,Clothing,60
+215,Trench Coat,Clothing,130
+216,Greek Yogurt,Groceries,5
+217,Nut Butter,Groceries,7
+218,Dried Fruit,Groceries,6
+219,Instant Coffee,Groceries,8
+220,Crackers,Groceries,3
+221,Wireless Charger,Electronics,30
+222,Portable Bluetooth Speaker,Electronics,100
+223,Smartwatch Charger,Electronics,20
+224,Laptop Sleeve,Electronics,30
+225,Screen Protector,Electronics,10
+226,Food Steamer,Home Appliances,80
+227,Bread Maker,Home Appliances,130
+228,Cordless Vacuum,Home Appliances,200
+229,Robot Vacuum,Home Appliances,300
+230,Steam Iron,Home Appliances,50
+231,Sectional Sofa,Furniture,1000
+232,Bar Cart,Furniture,200
+233,Vanity Set,Furniture,300
+234,Dining Set,Furniture,800
+235,Kitchen Cart,Furniture,150
+236,Windbreaker,Clothing,60
+237,Sports Bra,Clothing,30
+238,Leggings,Clothing,40
+239,Turtleneck,Clothing,35
+240,Winter Hat,Clothing,20
+241,Coffee Pods,Groceries,8
+242,Bottled Water,Groceries,5
+243,Vegetable Oil,Groceries,4
+244,Instant Soup,Groceries,3
+245,Popcorn,Groceries,4
+246,Fitness Tracker,Electronics,80
+247,Smart Scale,Electronics,60
+248,Action Camera,Electronics,200
+249,Digital Recorder,Electronics,100
+250,Portable Projector,Electronics,300
+251,Stand Mixer,Home Appliances,300
+252,Griddle,Home Appliances,50
+253,Electric Pressure Cooker,Home Appliances,100
+254,Portable Ice Maker,Home Appliances,130
+255,Electric Can Opener,Home Appliances,30
+256,Convertible Sofa,Furniture,600
+257,Rolling Cart,Furniture,100
+258,Nesting Tables,Furniture,150
+259,Cube Organizer,Furniture,90
+260,Storage Ottoman,Furniture,130
+261,Puffer Jacket,Clothing,90
+262,Peacoat,Clothing,120
+263,Thermal Underwear,Clothing,30
+264,Base Layer,Clothing,35
+265,Down Vest,Clothing,60
+266,Peanut Oil,Groceries,5
+267,Vegetable Juice,Groceries,4
+268,Almond Milk,Groceries,5
+269,Protein Powder,Groceries,20
+270,Energy Drink,Groceries,3
+271,Drone Camera,Electronics,400
+272,GoPro Mount,Electronics,20
+273,Action Camera Accessory Kit,Electronics,50
+274,Smart Home Hub,Electronics,100
+275,Smart Door Lock,Electronics,150
+276,Induction Oven,Home Appliances,400
+277,Microwave,Home Appliances,200
+278,Air Purifier,Home Appliances,150
+279,Water Purifier,Home Appliances,200
+280,Handheld Vacuum,Home Appliances,80
+281,Accent Chair,Furniture,300
+282,Adjustable Bed,Furniture,1000
+283,Bedside Table,Furniture,80
+284,Coffee Table Set,Furniture,200
+285,Sideboard,Furniture,400
+286,Leather Boots,Clothing,150
+287,Polo Sweater,Clothing,50
+288,Fleece Hoodie,Clothing,40
+289,Anorak,Clothing,70
+290,Winter Gloves,Clothing,25
+291,Smoothie,Groceries,4
+292,Almonds,Groceries,6
+293,Trail Mix,Groceries,5
+294,Protein Bar,Groceries,3
+295,Bagel,Groceries,2
+296,Smart Water Bottle,Electronics,50
+297,Bluetooth Tracker,Electronics,30
+298,Smart Light Switch,Electronics,40
+299,Smart Door Sensor,Electronics,20
+300,Pet Camera,Electronics,100

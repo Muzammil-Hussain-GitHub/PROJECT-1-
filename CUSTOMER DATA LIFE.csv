@@ -1,0 +1,1001 @@
+CustomerID,MaritalStatus ,EducationLevel ,Occupation 
+1,Separated,High School Diploma,teacher
+2,Divorced,Master's Degree,engineer
+3,Married,Associate's Degree,artist
+4,Single,High School Diploma,engineer
+5,Divorced,Associate's Degree,pilot
+6,Single,Doctorate,engineer
+7,Divorced,Bachelor's Degree,engineer
+8,Married,Bachelor's Degree,chef
+9,Single,Associate's Degree,doctor
+10,Divorced,Associate's Degree,doctor
+11,Widowed,Master's Degree,teacher
+12,Single,Associate's Degree,teacher
+13,Divorced,Associate's Degree,chef
+14,Widowed,Bachelor's Degree,pilot
+15,Single,High School Diploma,chef
+16,Single,Bachelor's Degree,doctor
+17,Married,Doctorate,artist
+18,Married,Associate's Degree,pilot
+19,Divorced,Associate's Degree,engineer
+20,Divorced,High School Diploma,engineer
+21,Widowed,High School Diploma,pilot
+22,Separated,Associate's Degree,engineer
+23,Divorced,Associate's Degree,chef
+24,Married,Doctorate,engineer
+25,Single,Bachelor's Degree,pilot
+26,Separated,Master's Degree,chef
+27,Divorced,Bachelor's Degree,pilot
+28,Separated,Master's Degree,chef
+29,Separated,High School Diploma,engineer
+30,Separated,Bachelor's Degree,engineer
+31,Single,Bachelor's Degree,doctor
+32,Widowed,High School Diploma,engineer
+33,Divorced,Bachelor's Degree,doctor
+34,Divorced,High School Diploma,pilot
+35,Divorced,Doctorate,doctor
+36,Widowed,Associate's Degree,doctor
+37,Widowed,High School Diploma,pilot
+38,Divorced,Associate's Degree,engineer
+39,Married,Associate's Degree,pilot
+40,Separated,Associate's Degree,chef
+41,Single,Master's Degree,engineer
+42,Widowed,Bachelor's Degree,artist
+43,Widowed,Doctorate,doctor
+44,Separated,Master's Degree,artist
+45,Divorced,Bachelor's Degree,engineer
+46,Married,High School Diploma,chef
+47,Divorced,Doctorate,teacher
+48,Divorced,Doctorate,pilot
+49,Divorced,Associate's Degree,doctor
+50,Married,Bachelor's Degree,pilot
+51,Widowed,Bachelor's Degree,doctor
+52,Separated,High School Diploma,engineer
+53,Separated,Master's Degree,engineer
+54,Separated,Master's Degree,artist
+55,Married,High School Diploma,engineer
+56,Widowed,Master's Degree,engineer
+57,Separated,High School Diploma,artist
+58,Separated,Master's Degree,pilot
+59,Single,Master's Degree,engineer
+60,Separated,Master's Degree,engineer
+61,Divorced,High School Diploma,doctor
+62,Divorced,Associate's Degree,chef
+63,Widowed,Associate's Degree,chef
+64,Single,Doctorate,artist
+65,Single,Bachelor's Degree,chef
+66,Single,Associate's Degree,pilot
+67,Widowed,Associate's Degree,artist
+68,Separated,Bachelor's Degree,artist
+69,Single,High School Diploma,doctor
+70,Married,High School Diploma,pilot
+71,Divorced,Bachelor's Degree,teacher
+72,Widowed,Doctorate,artist
+73,Divorced,Bachelor's Degree,artist
+74,Single,Master's Degree,pilot
+75,Widowed,Associate's Degree,pilot
+76,Single,Associate's Degree,doctor
+77,Single,Doctorate,doctor
+78,Widowed,Master's Degree,engineer
+79,Married,Doctorate,chef
+80,Widowed,Associate's Degree,pilot
+81,Widowed,Doctorate,chef
+82,Divorced,High School Diploma,teacher
+83,Separated,Master's Degree,chef
+84,Widowed,Master's Degree,pilot
+85,Married,Associate's Degree,doctor
+86,Divorced,Bachelor's Degree,chef
+87,Married,High School Diploma,chef
+88,Separated,High School Diploma,chef
+89,Single,High School Diploma,teacher
+90,Separated,Master's Degree,artist
+91,Divorced,Associate's Degree,teacher
+92,Widowed,Doctorate,doctor
+93,Single,High School Diploma,teacher
+94,Separated,Doctorate,chef
+95,Divorced,High School Diploma,engineer
+96,Divorced,Doctorate,artist
+97,Widowed,Associate's Degree,pilot
+98,Divorced,Doctorate,doctor
+99,Separated,High School Diploma,doctor
+100,Divorced,Associate's Degree,engineer
+101,Single,Bachelor's Degree,pilot
+102,Separated,Bachelor's Degree,pilot
+103,Married,Bachelor's Degree,teacher
+104,Single,Master's Degree,pilot
+105,Widowed,High School Diploma,teacher
+106,Divorced,Associate's Degree,teacher
+107,Widowed,Associate's Degree,pilot
+108,Single,Master's Degree,teacher
+109,Widowed,Master's Degree,doctor
+110,Married,Master's Degree,artist
+111,Married,Associate's Degree,teacher
+112,Divorced,Doctorate,engineer
+113,Married,Doctorate,teacher
+114,Widowed,Associate's Degree,pilot
+115,Divorced,Bachelor's Degree,pilot
+116,Single,Doctorate,pilot
+117,Single,Bachelor's Degree,teacher
+118,Separated,Master's Degree,artist
+119,Married,Master's Degree,artist
+120,Divorced,Doctorate,artist
+121,Separated,Doctorate,artist
+122,Married,Master's Degree,teacher
+123,Married,Bachelor's Degree,teacher
+124,Separated,Bachelor's Degree,doctor
+125,Divorced,Master's Degree,chef
+126,Divorced,Master's Degree,artist
+127,Married,Associate's Degree,chef
+128,Widowed,Bachelor's Degree,doctor
+129,Divorced,High School Diploma,teacher
+130,Married,Bachelor's Degree,engineer
+131,Divorced,High School Diploma,teacher
+132,Widowed,Master's Degree,artist
+133,Single,Associate's Degree,teacher
+134,Married,Doctorate,pilot
+135,Divorced,Bachelor's Degree,pilot
+136,Separated,Associate's Degree,pilot
+137,Divorced,Doctorate,doctor
+138,Separated,High School Diploma,artist
+139,Widowed,Associate's Degree,artist
+140,Widowed,Bachelor's Degree,engineer
+141,Single,Doctorate,chef
+142,Separated,High School Diploma,teacher
+143,Divorced,Bachelor's Degree,doctor
+144,Single,Master's Degree,chef
+145,Single,Doctorate,teacher
+146,Married,Doctorate,teacher
+147,Divorced,Associate's Degree,teacher
+148,Single,High School Diploma,artist
+149,Single,High School Diploma,engineer
+150,Separated,Associate's Degree,chef
+151,Separated,Master's Degree,chef
+152,Single,High School Diploma,engineer
+153,Divorced,High School Diploma,doctor
+154,Married,Master's Degree,engineer
+155,Widowed,Associate's Degree,artist
+156,Widowed,High School Diploma,pilot
+157,Married,High School Diploma,chef
+158,Married,Associate's Degree,pilot
+159,Single,Associate's Degree,pilot
+160,Single,Bachelor's Degree,pilot
+161,Separated,Bachelor's Degree,teacher
+162,Separated,High School Diploma,pilot
+163,Married,Associate's Degree,engineer
+164,Widowed,Doctorate,engineer
+165,Divorced,High School Diploma,chef
+166,Separated,Doctorate,pilot
+167,Widowed,High School Diploma,teacher
+168,Widowed,Master's Degree,engineer
+169,Widowed,Master's Degree,engineer
+170,Widowed,Associate's Degree,artist
+171,Widowed,Master's Degree,teacher
+172,Divorced,High School Diploma,chef
+173,Divorced,High School Diploma,pilot
+174,Divorced,High School Diploma,pilot
+175,Separated,Master's Degree,chef
+176,Separated,Master's Degree,artist
+177,Married,Bachelor's Degree,artist
+178,Single,Doctorate,artist
+179,Widowed,Doctorate,doctor
+180,Widowed,Bachelor's Degree,teacher
+181,Single,Master's Degree,chef
+182,Separated,Bachelor's Degree,chef
+183,Married,Associate's Degree,chef
+184,Separated,Doctorate,engineer
+185,Widowed,Associate's Degree,chef
+186,Divorced,Bachelor's Degree,chef
+187,Separated,Master's Degree,engineer
+188,Divorced,Associate's Degree,chef
+189,Divorced,High School Diploma,pilot
+190,Separated,Master's Degree,chef
+191,Married,Associate's Degree,engineer
+192,Single,Bachelor's Degree,engineer
+193,Married,Master's Degree,chef
+194,Separated,Associate's Degree,chef
+195,Separated,Associate's Degree,doctor
+196,Separated,Doctorate,doctor
+197,Widowed,Master's Degree,doctor
+198,Divorced,Associate's Degree,pilot
+199,Widowed,Associate's Degree,chef
+200,Divorced,Doctorate,artist
+201,Separated,Doctorate,artist
+202,Single,High School Diploma,doctor
+203,Widowed,High School Diploma,artist
+204,Single,Doctorate,pilot
+205,Single,Associate's Degree,pilot
+206,Widowed,Bachelor's Degree,artist
+207,Married,High School Diploma,engineer
+208,Divorced,Doctorate,teacher
+209,Widowed,Master's Degree,pilot
+210,Married,Master's Degree,teacher
+211,Widowed,High School Diploma,engineer
+212,Single,Master's Degree,pilot
+213,Widowed,Master's Degree,teacher
+214,Widowed,High School Diploma,doctor
+215,Widowed,Doctorate,pilot
+216,Divorced,Bachelor's Degree,artist
+217,Separated,Doctorate,pilot
+218,Married,Master's Degree,artist
+219,Single,Doctorate,doctor
+220,Single,Master's Degree,doctor
+221,Widowed,Doctorate,doctor
+222,Divorced,High School Diploma,engineer
+223,Married,Doctorate,engineer
+224,Married,Doctorate,artist
+225,Divorced,Bachelor's Degree,pilot
+226,Single,High School Diploma,chef
+227,Widowed,Associate's Degree,pilot
+228,Single,Associate's Degree,doctor
+229,Widowed,High School Diploma,teacher
+230,Divorced,Associate's Degree,chef
+231,Single,Associate's Degree,pilot
+232,Separated,Doctorate,pilot
+233,Single,Associate's Degree,pilot
+234,Separated,Bachelor's Degree,doctor
+235,Single,High School Diploma,artist
+236,Divorced,Doctorate,teacher
+237,Single,High School Diploma,teacher
+238,Divorced,Associate's Degree,engineer
+239,Single,Bachelor's Degree,pilot
+240,Widowed,Master's Degree,teacher
+241,Single,High School Diploma,artist
+242,Separated,High School Diploma,doctor
+243,Separated,Associate's Degree,pilot
+244,Single,Doctorate,engineer
+245,Separated,High School Diploma,engineer
+246,Separated,Bachelor's Degree,artist
+247,Married,Master's Degree,teacher
+248,Single,Bachelor's Degree,doctor
+249,Separated,Doctorate,doctor
+250,Widowed,Bachelor's Degree,engineer
+251,Married,Bachelor's Degree,teacher
+252,Married,Associate's Degree,teacher
+253,Single,Master's Degree,engineer
+254,Divorced,Associate's Degree,teacher
+255,Divorced,Bachelor's Degree,engineer
+256,Married,High School Diploma,doctor
+257,Separated,Master's Degree,artist
+258,Divorced,Associate's Degree,artist
+259,Divorced,High School Diploma,doctor
+260,Married,Associate's Degree,engineer
+261,Married,Associate's Degree,teacher
+262,Separated,Master's Degree,artist
+263,Married,Bachelor's Degree,engineer
+264,Divorced,Doctorate,teacher
+265,Single,Bachelor's Degree,teacher
+266,Widowed,High School Diploma,teacher
+267,Separated,Doctorate,pilot
+268,Married,High School Diploma,engineer
+269,Divorced,Bachelor's Degree,pilot
+270,Married,Associate's Degree,artist
+271,Divorced,Doctorate,artist
+272,Married,Bachelor's Degree,pilot
+273,Divorced,High School Diploma,chef
+274,Separated,Master's Degree,teacher
+275,Divorced,Bachelor's Degree,engineer
+276,Married,Associate's Degree,pilot
+277,Single,Associate's Degree,pilot
+278,Separated,Master's Degree,doctor
+279,Single,Associate's Degree,teacher
+280,Single,Associate's Degree,engineer
+281,Divorced,Doctorate,doctor
+282,Married,High School Diploma,doctor
+283,Divorced,Bachelor's Degree,artist
+284,Separated,High School Diploma,doctor
+285,Widowed,High School Diploma,chef
+286,Married,Master's Degree,doctor
+287,Married,Master's Degree,doctor
+288,Single,High School Diploma,engineer
+289,Widowed,Associate's Degree,engineer
+290,Single,Master's Degree,doctor
+291,Single,Master's Degree,engineer
+292,Separated,High School Diploma,engineer
+293,Married,Associate's Degree,pilot
+294,Widowed,Doctorate,artist
+295,Separated,High School Diploma,doctor
+296,Divorced,Bachelor's Degree,pilot
+297,Separated,Bachelor's Degree,doctor
+298,Married,Associate's Degree,artist
+299,Single,High School Diploma,chef
+300,Married,Bachelor's Degree,engineer
+301,Widowed,Master's Degree,doctor
+302,Separated,Associate's Degree,pilot
+303,Married,High School Diploma,teacher
+304,Married,Bachelor's Degree,doctor
+305,Widowed,Doctorate,doctor
+306,Single,Doctorate,pilot
+307,Separated,Bachelor's Degree,artist
+308,Divorced,Master's Degree,doctor
+309,Widowed,Bachelor's Degree,artist
+310,Separated,Bachelor's Degree,engineer
+311,Separated,Master's Degree,engineer
+312,Divorced,Master's Degree,artist
+313,Separated,Associate's Degree,chef
+314,Divorced,Associate's Degree,pilot
+315,Widowed,High School Diploma,engineer
+316,Widowed,Associate's Degree,pilot
+317,Married,Doctorate,engineer
+318,Single,Master's Degree,chef
+319,Separated,Associate's Degree,artist
+320,Single,Bachelor's Degree,teacher
+321,Separated,Doctorate,doctor
+322,Divorced,Doctorate,pilot
+323,Married,Bachelor's Degree,teacher
+324,Single,High School Diploma,chef
+325,Separated,Bachelor's Degree,chef
+326,Divorced,Doctorate,chef
+327,Separated,Master's Degree,teacher
+328,Separated,Doctorate,doctor
+329,Separated,Associate's Degree,pilot
+330,Separated,Associate's Degree,chef
+331,Divorced,Master's Degree,engineer
+332,Married,Associate's Degree,engineer
+333,Divorced,Bachelor's Degree,chef
+334,Single,High School Diploma,artist
+335,Married,High School Diploma,pilot
+336,Single,High School Diploma,teacher
+337,Separated,Doctorate,doctor
+338,Single,Master's Degree,teacher
+339,Widowed,Associate's Degree,teacher
+340,Separated,Doctorate,teacher
+341,Widowed,Doctorate,teacher
+342,Single,High School Diploma,chef
+343,Single,Doctorate,chef
+344,Single,Associate's Degree,engineer
+345,Married,Associate's Degree,teacher
+346,Married,High School Diploma,teacher
+347,Divorced,Doctorate,engineer
+348,Married,High School Diploma,doctor
+349,Married,Bachelor's Degree,pilot
+350,Widowed,Bachelor's Degree,artist
+351,Single,Doctorate,chef
+352,Separated,High School Diploma,teacher
+353,Widowed,High School Diploma,chef
+354,Single,Bachelor's Degree,doctor
+355,Widowed,Doctorate,chef
+356,Separated,Associate's Degree,teacher
+357,Divorced,Associate's Degree,engineer
+358,Widowed,High School Diploma,teacher
+359,Widowed,Doctorate,teacher
+360,Separated,Bachelor's Degree,chef
+361,Single,Bachelor's Degree,doctor
+362,Divorced,High School Diploma,artist
+363,Married,Master's Degree,pilot
+364,Separated,Bachelor's Degree,teacher
+365,Widowed,Bachelor's Degree,doctor
+366,Married,Master's Degree,pilot
+367,Separated,High School Diploma,engineer
+368,Divorced,Bachelor's Degree,doctor
+369,Widowed,Doctorate,engineer
+370,Married,Master's Degree,pilot
+371,Widowed,Doctorate,chef
+372,Widowed,Master's Degree,teacher
+373,Married,High School Diploma,chef
+374,Single,Doctorate,doctor
+375,Divorced,Bachelor's Degree,engineer
+376,Single,High School Diploma,engineer
+377,Divorced,Master's Degree,engineer
+378,Widowed,Master's Degree,doctor
+379,Divorced,Bachelor's Degree,engineer
+380,Single,Bachelor's Degree,teacher
+381,Separated,Bachelor's Degree,teacher
+382,Separated,High School Diploma,chef
+383,Separated,Bachelor's Degree,engineer
+384,Divorced,Doctorate,chef
+385,Widowed,High School Diploma,artist
+386,Widowed,Associate's Degree,teacher
+387,Single,Doctorate,artist
+388,Married,High School Diploma,pilot
+389,Separated,Master's Degree,pilot
+390,Separated,Doctorate,pilot
+391,Widowed,High School Diploma,artist
+392,Separated,High School Diploma,doctor
+393,Married,Doctorate,teacher
+394,Separated,Associate's Degree,pilot
+395,Married,Doctorate,artist
+396,Widowed,High School Diploma,doctor
+397,Single,Bachelor's Degree,teacher
+398,Single,Associate's Degree,teacher
+399,Divorced,Bachelor's Degree,doctor
+400,Divorced,Bachelor's Degree,artist
+401,Widowed,Associate's Degree,pilot
+402,Married,Associate's Degree,artist
+403,Single,High School Diploma,chef
+404,Married,Associate's Degree,chef
+405,Married,Master's Degree,chef
+406,Single,Master's Degree,pilot
+407,Divorced,High School Diploma,engineer
+408,Divorced,Doctorate,pilot
+409,Widowed,High School Diploma,artist
+410,Widowed,Master's Degree,artist
+411,Divorced,Master's Degree,doctor
+412,Widowed,Associate's Degree,engineer
+413,Married,Associate's Degree,doctor
+414,Separated,High School Diploma,pilot
+415,Divorced,Associate's Degree,engineer
+416,Widowed,Bachelor's Degree,doctor
+417,Divorced,High School Diploma,engineer
+418,Divorced,Master's Degree,chef
+419,Married,Associate's Degree,engineer
+420,Divorced,Master's Degree,chef
+421,Separated,Associate's Degree,artist
+422,Separated,High School Diploma,engineer
+423,Separated,Bachelor's Degree,pilot
+424,Single,Master's Degree,teacher
+425,Separated,High School Diploma,engineer
+426,Single,Doctorate,teacher
+427,Single,High School Diploma,doctor
+428,Married,Bachelor's Degree,pilot
+429,Widowed,Associate's Degree,teacher
+430,Separated,Master's Degree,engineer
+431,Single,Master's Degree,chef
+432,Single,Associate's Degree,artist
+433,Single,Bachelor's Degree,teacher
+434,Separated,Associate's Degree,artist
+435,Single,Bachelor's Degree,chef
+436,Married,Associate's Degree,artist
+437,Divorced,High School Diploma,doctor
+438,Widowed,Master's Degree,doctor
+439,Divorced,Doctorate,pilot
+440,Separated,High School Diploma,teacher
+441,Separated,Bachelor's Degree,artist
+442,Widowed,Associate's Degree,doctor
+443,Separated,Bachelor's Degree,pilot
+444,Divorced,Associate's Degree,chef
+445,Married,Associate's Degree,chef
+446,Single,Bachelor's Degree,artist
+447,Married,Doctorate,chef
+448,Married,Bachelor's Degree,doctor
+449,Single,Bachelor's Degree,pilot
+450,Widowed,Master's Degree,pilot
+451,Separated,Doctorate,engineer
+452,Married,Bachelor's Degree,artist
+453,Widowed,High School Diploma,doctor
+454,Separated,Master's Degree,pilot
+455,Single,Bachelor's Degree,chef
+456,Married,Bachelor's Degree,doctor
+457,Separated,Master's Degree,chef
+458,Divorced,Bachelor's Degree,chef
+459,Single,Doctorate,chef
+460,Divorced,Associate's Degree,engineer
+461,Married,Master's Degree,engineer
+462,Single,Master's Degree,artist
+463,Separated,Master's Degree,chef
+464,Married,High School Diploma,artist
+465,Married,Doctorate,doctor
+466,Single,Associate's Degree,teacher
+467,Separated,Associate's Degree,artist
+468,Single,Master's Degree,artist
+469,Divorced,Associate's Degree,engineer
+470,Divorced,Bachelor's Degree,artist
+471,Separated,High School Diploma,artist
+472,Divorced,Master's Degree,engineer
+473,Divorced,Bachelor's Degree,doctor
+474,Separated,Associate's Degree,pilot
+475,Single,Bachelor's Degree,chef
+476,Single,Bachelor's Degree,engineer
+477,Married,Master's Degree,pilot
+478,Divorced,Associate's Degree,pilot
+479,Married,Bachelor's Degree,teacher
+480,Single,Bachelor's Degree,pilot
+481,Married,Master's Degree,teacher
+482,Divorced,Master's Degree,chef
+483,Separated,Associate's Degree,chef
+484,Widowed,Master's Degree,pilot
+485,Single,Doctorate,pilot
+486,Separated,Associate's Degree,chef
+487,Single,Doctorate,artist
+488,Separated,Associate's Degree,doctor
+489,Widowed,Associate's Degree,doctor
+490,Separated,Associate's Degree,chef
+491,Divorced,Doctorate,engineer
+492,Single,High School Diploma,doctor
+493,Divorced,Master's Degree,engineer
+494,Single,Associate's Degree,chef
+495,Married,Bachelor's Degree,pilot
+496,Widowed,High School Diploma,artist
+497,Separated,Bachelor's Degree,artist
+498,Married,High School Diploma,teacher
+499,Divorced,Doctorate,chef
+500,Separated,Associate's Degree,engineer
+501,Married,Doctorate,pilot
+502,Widowed,Bachelor's Degree,artist
+503,Married,Doctorate,engineer
+504,Separated,High School Diploma,teacher
+505,Single,High School Diploma,artist
+506,Widowed,Bachelor's Degree,chef
+507,Separated,Master's Degree,doctor
+508,Divorced,Associate's Degree,doctor
+509,Married,Doctorate,pilot
+510,Single,Associate's Degree,engineer
+511,Divorced,Associate's Degree,artist
+512,Widowed,High School Diploma,engineer
+513,Single,High School Diploma,chef
+514,Single,Bachelor's Degree,artist
+515,Single,Bachelor's Degree,doctor
+516,Married,Master's Degree,teacher
+517,Widowed,Associate's Degree,engineer
+518,Single,Associate's Degree,artist
+519,Widowed,Associate's Degree,engineer
+520,Divorced,Master's Degree,pilot
+521,Single,Master's Degree,chef
+522,Married,High School Diploma,doctor
+523,Separated,Doctorate,artist
+524,Separated,Master's Degree,chef
+525,Separated,Bachelor's Degree,chef
+526,Divorced,Bachelor's Degree,chef
+527,Separated,Bachelor's Degree,engineer
+528,Single,Master's Degree,teacher
+529,Separated,Doctorate,artist
+530,Widowed,Bachelor's Degree,pilot
+531,Married,High School Diploma,doctor
+532,Separated,Associate's Degree,engineer
+533,Single,Associate's Degree,teacher
+534,Single,Bachelor's Degree,artist
+535,Widowed,Master's Degree,teacher
+536,Married,Doctorate,chef
+537,Widowed,Bachelor's Degree,teacher
+538,Single,Doctorate,teacher
+539,Married,Doctorate,chef
+540,Widowed,Master's Degree,engineer
+541,Separated,Doctorate,engineer
+542,Separated,High School Diploma,pilot
+543,Single,High School Diploma,doctor
+544,Single,High School Diploma,engineer
+545,Divorced,High School Diploma,artist
+546,Married,High School Diploma,artist
+547,Widowed,High School Diploma,chef
+548,Widowed,Associate's Degree,engineer
+549,Divorced,Associate's Degree,pilot
+550,Married,Associate's Degree,artist
+551,Separated,Doctorate,chef
+552,Widowed,Master's Degree,pilot
+553,Single,High School Diploma,engineer
+554,Single,Bachelor's Degree,doctor
+555,Single,Master's Degree,doctor
+556,Single,Doctorate,pilot
+557,Widowed,High School Diploma,pilot
+558,Widowed,Master's Degree,engineer
+559,Widowed,Doctorate,chef
+560,Single,Associate's Degree,pilot
+561,Widowed,Master's Degree,doctor
+562,Separated,Doctorate,engineer
+563,Widowed,Doctorate,doctor
+564,Separated,Master's Degree,teacher
+565,Separated,Doctorate,doctor
+566,Separated,Bachelor's Degree,engineer
+567,Widowed,Bachelor's Degree,teacher
+568,Married,Master's Degree,engineer
+569,Widowed,Associate's Degree,engineer
+570,Single,Bachelor's Degree,engineer
+571,Widowed,Doctorate,chef
+572,Widowed,Associate's Degree,pilot
+573,Married,Doctorate,pilot
+574,Separated,Master's Degree,engineer
+575,Divorced,Bachelor's Degree,pilot
+576,Separated,High School Diploma,doctor
+577,Widowed,High School Diploma,chef
+578,Separated,Associate's Degree,teacher
+579,Separated,Doctorate,chef
+580,Separated,Bachelor's Degree,chef
+581,Divorced,Master's Degree,artist
+582,Widowed,Bachelor's Degree,doctor
+583,Separated,Associate's Degree,doctor
+584,Single,Associate's Degree,doctor
+585,Single,Bachelor's Degree,teacher
+586,Married,Master's Degree,teacher
+587,Separated,Master's Degree,chef
+588,Widowed,Master's Degree,pilot
+589,Divorced,High School Diploma,doctor
+590,Married,High School Diploma,chef
+591,Separated,Bachelor's Degree,doctor
+592,Married,Master's Degree,pilot
+593,Married,Doctorate,pilot
+594,Single,Master's Degree,engineer
+595,Separated,Master's Degree,artist
+596,Married,Doctorate,chef
+597,Widowed,High School Diploma,engineer
+598,Divorced,High School Diploma,engineer
+599,Married,Associate's Degree,doctor
+600,Separated,High School Diploma,engineer
+601,Divorced,High School Diploma,chef
+602,Widowed,Doctorate,pilot
+603,Separated,High School Diploma,chef
+604,Married,Associate's Degree,teacher
+605,Married,Bachelor's Degree,pilot
+606,Divorced,Master's Degree,teacher
+607,Divorced,High School Diploma,doctor
+608,Divorced,Associate's Degree,artist
+609,Widowed,Doctorate,chef
+610,Married,Master's Degree,teacher
+611,Widowed,Associate's Degree,engineer
+612,Widowed,Doctorate,artist
+613,Divorced,High School Diploma,doctor
+614,Widowed,Associate's Degree,engineer
+615,Married,Doctorate,teacher
+616,Divorced,Master's Degree,pilot
+617,Separated,Master's Degree,chef
+618,Separated,Master's Degree,chef
+619,Widowed,Associate's Degree,pilot
+620,Married,Associate's Degree,teacher
+621,Separated,Bachelor's Degree,doctor
+622,Married,Associate's Degree,artist
+623,Married,Doctorate,engineer
+624,Separated,Associate's Degree,chef
+625,Divorced,High School Diploma,artist
+626,Divorced,Associate's Degree,artist
+627,Married,Doctorate,artist
+628,Separated,High School Diploma,pilot
+629,Married,Associate's Degree,chef
+630,Separated,Bachelor's Degree,pilot
+631,Divorced,Associate's Degree,artist
+632,Divorced,Bachelor's Degree,engineer
+633,Single,Bachelor's Degree,engineer
+634,Single,Associate's Degree,pilot
+635,Separated,Associate's Degree,chef
+636,Married,High School Diploma,doctor
+637,Divorced,Bachelor's Degree,chef
+638,Separated,Associate's Degree,teacher
+639,Widowed,Associate's Degree,chef
+640,Single,Associate's Degree,artist
+641,Single,Bachelor's Degree,artist
+642,Single,Doctorate,pilot
+643,Widowed,Master's Degree,chef
+644,Married,High School Diploma,artist
+645,Divorced,Associate's Degree,artist
+646,Widowed,Associate's Degree,artist
+647,Single,Doctorate,doctor
+648,Separated,High School Diploma,chef
+649,Widowed,Associate's Degree,pilot
+650,Separated,Doctorate,doctor
+651,Widowed,Bachelor's Degree,teacher
+652,Married,Associate's Degree,artist
+653,Divorced,Doctorate,engineer
+654,Divorced,Associate's Degree,artist
+655,Widowed,Associate's Degree,chef
+656,Separated,Associate's Degree,artist
+657,Married,Master's Degree,pilot
+658,Single,Master's Degree,doctor
+659,Married,Master's Degree,teacher
+660,Widowed,Bachelor's Degree,chef
+661,Married,Master's Degree,engineer
+662,Single,Bachelor's Degree,artist
+663,Divorced,Doctorate,teacher
+664,Single,Master's Degree,teacher
+665,Separated,High School Diploma,engineer
+666,Separated,Bachelor's Degree,doctor
+667,Married,Master's Degree,artist
+668,Married,High School Diploma,artist
+669,Divorced,Master's Degree,engineer
+670,Separated,Bachelor's Degree,chef
+671,Divorced,Master's Degree,engineer
+672,Widowed,Bachelor's Degree,doctor
+673,Divorced,High School Diploma,artist
+674,Divorced,Bachelor's Degree,pilot
+675,Married,Associate's Degree,artist
+676,Married,Doctorate,engineer
+677,Single,Master's Degree,artist
+678,Divorced,Master's Degree,chef
+679,Divorced,Bachelor's Degree,teacher
+680,Single,Associate's Degree,engineer
+681,Divorced,Bachelor's Degree,engineer
+682,Divorced,Master's Degree,artist
+683,Divorced,Bachelor's Degree,teacher
+684,Single,Doctorate,artist
+685,Widowed,High School Diploma,artist
+686,Divorced,Associate's Degree,doctor
+687,Separated,Master's Degree,artist
+688,Single,Bachelor's Degree,doctor
+689,Widowed,Doctorate,doctor
+690,Widowed,Doctorate,artist
+691,Separated,Bachelor's Degree,artist
+692,Separated,Master's Degree,teacher
+693,Married,Doctorate,chef
+694,Married,High School Diploma,pilot
+695,Divorced,Associate's Degree,doctor
+696,Divorced,Doctorate,engineer
+697,Married,High School Diploma,chef
+698,Widowed,Doctorate,engineer
+699,Separated,Associate's Degree,pilot
+700,Married,High School Diploma,artist
+701,Separated,Master's Degree,doctor
+702,Widowed,High School Diploma,teacher
+703,Divorced,High School Diploma,teacher
+704,Widowed,Bachelor's Degree,pilot
+705,Separated,Associate's Degree,artist
+706,Single,High School Diploma,artist
+707,Married,Associate's Degree,pilot
+708,Divorced,Associate's Degree,chef
+709,Widowed,Master's Degree,chef
+710,Separated,Master's Degree,artist
+711,Divorced,Doctorate,pilot
+712,Married,Master's Degree,engineer
+713,Married,Associate's Degree,pilot
+714,Single,Master's Degree,pilot
+715,Separated,Master's Degree,doctor
+716,Single,Associate's Degree,pilot
+717,Separated,Doctorate,chef
+718,Single,High School Diploma,engineer
+719,Married,Associate's Degree,engineer
+720,Separated,High School Diploma,doctor
+721,Married,Bachelor's Degree,artist
+722,Married,Doctorate,doctor
+723,Separated,High School Diploma,doctor
+724,Separated,Associate's Degree,doctor
+725,Divorced,Doctorate,chef
+726,Divorced,Associate's Degree,teacher
+727,Divorced,Bachelor's Degree,doctor
+728,Divorced,High School Diploma,engineer
+729,Single,Master's Degree,chef
+730,Married,Associate's Degree,engineer
+731,Married,Master's Degree,engineer
+732,Divorced,Bachelor's Degree,chef
+733,Divorced,Master's Degree,doctor
+734,Divorced,Master's Degree,chef
+735,Divorced,Doctorate,chef
+736,Separated,Associate's Degree,chef
+737,Separated,Master's Degree,pilot
+738,Widowed,Doctorate,chef
+739,Separated,Associate's Degree,chef
+740,Separated,High School Diploma,teacher
+741,Widowed,Bachelor's Degree,doctor
+742,Separated,High School Diploma,teacher
+743,Single,Bachelor's Degree,chef
+744,Single,Bachelor's Degree,artist
+745,Married,Doctorate,teacher
+746,Widowed,Bachelor's Degree,engineer
+747,Single,Master's Degree,artist
+748,Single,High School Diploma,chef
+749,Separated,Associate's Degree,artist
+750,Widowed,Doctorate,teacher
+751,Married,Bachelor's Degree,teacher
+752,Widowed,Doctorate,teacher
+753,Married,High School Diploma,pilot
+754,Widowed,Bachelor's Degree,engineer
+755,Single,Master's Degree,artist
+756,Separated,Associate's Degree,engineer
+757,Married,Master's Degree,chef
+758,Widowed,Associate's Degree,teacher
+759,Single,Associate's Degree,artist
+760,Divorced,Master's Degree,doctor
+761,Separated,Bachelor's Degree,chef
+762,Married,Associate's Degree,teacher
+763,Married,High School Diploma,chef
+764,Married,High School Diploma,engineer
+765,Divorced,Doctorate,teacher
+766,Divorced,High School Diploma,engineer
+767,Married,Associate's Degree,pilot
+768,Separated,High School Diploma,artist
+769,Married,Master's Degree,pilot
+770,Single,Doctorate,doctor
+771,Separated,High School Diploma,engineer
+772,Married,Master's Degree,artist
+773,Widowed,Master's Degree,artist
+774,Separated,Bachelor's Degree,teacher
+775,Divorced,Associate's Degree,artist
+776,Widowed,Master's Degree,doctor
+777,Widowed,Master's Degree,pilot
+778,Divorced,Master's Degree,engineer
+779,Widowed,Bachelor's Degree,pilot
+780,Widowed,Associate's Degree,chef
+781,Single,Master's Degree,chef
+782,Divorced,Bachelor's Degree,teacher
+783,Married,Associate's Degree,doctor
+784,Divorced,Doctorate,engineer
+785,Married,Bachelor's Degree,artist
+786,Single,Bachelor's Degree,engineer
+787,Separated,Master's Degree,engineer
+788,Separated,Bachelor's Degree,engineer
+789,Single,Bachelor's Degree,artist
+790,Single,Master's Degree,teacher
+791,Single,Associate's Degree,pilot
+792,Single,Master's Degree,teacher
+793,Married,Associate's Degree,teacher
+794,Single,Bachelor's Degree,artist
+795,Single,Associate's Degree,teacher
+796,Separated,Doctorate,artist
+797,Separated,Associate's Degree,artist
+798,Married,High School Diploma,chef
+799,Widowed,High School Diploma,artist
+800,Widowed,High School Diploma,artist
+801,Married,Bachelor's Degree,engineer
+802,Divorced,High School Diploma,artist
+803,Widowed,Doctorate,doctor
+804,Single,Master's Degree,pilot
+805,Separated,Doctorate,engineer
+806,Divorced,Associate's Degree,teacher
+807,Divorced,Master's Degree,teacher
+808,Separated,Master's Degree,chef
+809,Married,High School Diploma,chef
+810,Divorced,Doctorate,teacher
+811,Separated,Doctorate,doctor
+812,Separated,Doctorate,pilot
+813,Divorced,High School Diploma,engineer
+814,Married,High School Diploma,doctor
+815,Single,Doctorate,pilot
+816,Divorced,Master's Degree,teacher
+817,Separated,Master's Degree,chef
+818,Divorced,Master's Degree,engineer
+819,Married,Bachelor's Degree,doctor
+820,Separated,Bachelor's Degree,pilot
+821,Divorced,Associate's Degree,engineer
+822,Divorced,Bachelor's Degree,pilot
+823,Divorced,Associate's Degree,doctor
+824,Separated,Associate's Degree,engineer
+825,Separated,Doctorate,artist
+826,Married,Master's Degree,doctor
+827,Separated,Master's Degree,teacher
+828,Separated,High School Diploma,artist
+829,Married,High School Diploma,teacher
+830,Separated,Master's Degree,artist
+831,Widowed,Doctorate,engineer
+832,Divorced,Master's Degree,doctor
+833,Separated,Bachelor's Degree,artist
+834,Widowed,Associate's Degree,pilot
+835,Widowed,Associate's Degree,artist
+836,Separated,High School Diploma,engineer
+837,Married,Doctorate,artist
+838,Separated,Associate's Degree,pilot
+839,Widowed,Associate's Degree,engineer
+840,Separated,Bachelor's Degree,chef
+841,Widowed,Doctorate,chef
+842,Divorced,Associate's Degree,pilot
+843,Single,Associate's Degree,doctor
+844,Single,High School Diploma,engineer
+845,Widowed,Bachelor's Degree,doctor
+846,Divorced,High School Diploma,pilot
+847,Married,Bachelor's Degree,engineer
+848,Separated,High School Diploma,artist
+849,Single,High School Diploma,teacher
+850,Widowed,Bachelor's Degree,engineer
+851,Separated,Doctorate,artist
+852,Widowed,High School Diploma,pilot
+853,Married,Doctorate,pilot
+854,Married,Associate's Degree,doctor
+855,Single,High School Diploma,doctor
+856,Married,Associate's Degree,engineer
+857,Divorced,Doctorate,teacher
+858,Widowed,High School Diploma,engineer
+859,Married,Bachelor's Degree,doctor
+860,Married,Master's Degree,engineer
+861,Widowed,Bachelor's Degree,artist
+862,Divorced,Bachelor's Degree,pilot
+863,Widowed,High School Diploma,pilot
+864,Married,Master's Degree,pilot
+865,Separated,Associate's Degree,pilot
+866,Divorced,Doctorate,doctor
+867,Single,Doctorate,artist
+868,Single,Doctorate,teacher
+869,Divorced,High School Diploma,chef
+870,Married,High School Diploma,artist
+871,Single,High School Diploma,teacher
+872,Divorced,Doctorate,chef
+873,Widowed,Bachelor's Degree,engineer
+874,Separated,Master's Degree,pilot
+875,Divorced,Master's Degree,pilot
+876,Divorced,Doctorate,engineer
+877,Widowed,Master's Degree,doctor
+878,Married,High School Diploma,artist
+879,Married,High School Diploma,engineer
+880,Married,Bachelor's Degree,teacher
+881,Separated,Bachelor's Degree,engineer
+882,Married,Associate's Degree,engineer
+883,Separated,Bachelor's Degree,doctor
+884,Married,Doctorate,doctor
+885,Single,Associate's Degree,pilot
+886,Married,High School Diploma,pilot
+887,Widowed,Doctorate,doctor
+888,Widowed,Doctorate,artist
+889,Single,Associate's Degree,engineer
+890,Widowed,Bachelor's Degree,artist
+891,Separated,High School Diploma,artist
+892,Single,Bachelor's Degree,artist
+893,Single,Bachelor's Degree,chef
+894,Married,Bachelor's Degree,engineer
+895,Widowed,Doctorate,engineer
+896,Separated,Doctorate,artist
+897,Separated,Master's Degree,pilot
+898,Widowed,Doctorate,doctor
+899,Widowed,Associate's Degree,engineer
+900,Single,High School Diploma,chef
+901,Widowed,High School Diploma,pilot
+902,Married,Associate's Degree,pilot
+903,Widowed,Associate's Degree,doctor
+904,Single,Associate's Degree,chef
+905,Widowed,High School Diploma,artist
+906,Widowed,Associate's Degree,teacher
+907,Separated,Doctorate,artist
+908,Single,Master's Degree,pilot
+909,Single,Associate's Degree,doctor
+910,Separated,High School Diploma,pilot
+911,Divorced,Associate's Degree,artist
+912,Widowed,High School Diploma,engineer
+913,Divorced,Master's Degree,doctor
+914,Single,Bachelor's Degree,artist
+915,Widowed,Bachelor's Degree,doctor
+916,Widowed,Master's Degree,doctor
+917,Separated,Master's Degree,chef
+918,Married,Associate's Degree,pilot
+919,Single,High School Diploma,teacher
+920,Single,Associate's Degree,chef
+921,Divorced,Associate's Degree,chef
+922,Widowed,Master's Degree,pilot
+923,Widowed,Master's Degree,pilot
+924,Separated,Bachelor's Degree,teacher
+925,Divorced,Associate's Degree,doctor
+926,Widowed,Doctorate,teacher
+927,Widowed,Doctorate,teacher
+928,Divorced,Bachelor's Degree,artist
+929,Single,Associate's Degree,engineer
+930,Separated,Associate's Degree,doctor
+931,Single,Bachelor's Degree,chef
+932,Divorced,Associate's Degree,chef
+933,Single,Doctorate,artist
+934,Single,Master's Degree,engineer
+935,Single,Bachelor's Degree,artist
+936,Single,High School Diploma,doctor
+937,Divorced,Master's Degree,teacher
+938,Single,Bachelor's Degree,doctor
+939,Divorced,Associate's Degree,teacher
+940,Divorced,Doctorate,chef
+941,Widowed,Associate's Degree,artist
+942,Divorced,Doctorate,teacher
+943,Married,Associate's Degree,chef
+944,Married,Doctorate,artist
+945,Single,High School Diploma,doctor
+946,Widowed,Associate's Degree,teacher
+947,Divorced,Master's Degree,pilot
+948,Single,High School Diploma,pilot
+949,Married,High School Diploma,chef
+950,Divorced,High School Diploma,teacher
+951,Divorced,Bachelor's Degree,chef
+952,Divorced,High School Diploma,engineer
+953,Widowed,Doctorate,artist
+954,Married,Associate's Degree,doctor
+955,Widowed,Master's Degree,doctor
+956,Widowed,Bachelor's Degree,doctor
+957,Divorced,Doctorate,artist
+958,Separated,Master's Degree,pilot
+959,Separated,Bachelor's Degree,artist
+960,Single,High School Diploma,teacher
+961,Separated,Bachelor's Degree,teacher
+962,Widowed,Associate's Degree,artist
+963,Separated,Associate's Degree,pilot
+964,Married,Bachelor's Degree,teacher
+965,Married,Associate's Degree,artist
+966,Separated,Associate's Degree,doctor
+967,Divorced,Bachelor's Degree,doctor
+968,Widowed,Doctorate,teacher
+969,Separated,Doctorate,teacher
+970,Divorced,Doctorate,teacher
+971,Widowed,Bachelor's Degree,engineer
+972,Married,Associate's Degree,teacher
+973,Widowed,High School Diploma,chef
+974,Separated,Doctorate,chef
+975,Separated,Doctorate,pilot
+976,Single,Doctorate,chef
+977,Separated,High School Diploma,doctor
+978,Separated,Master's Degree,teacher
+979,Widowed,High School Diploma,engineer
+980,Widowed,Doctorate,artist
+981,Divorced,High School Diploma,artist
+982,Single,Doctorate,artist
+983,Single,Master's Degree,engineer
+984,Married,Bachelor's Degree,teacher
+985,Divorced,Associate's Degree,pilot
+986,Widowed,High School Diploma,chef
+987,Separated,Associate's Degree,chef
+988,Single,Associate's Degree,artist
+989,Widowed,Bachelor's Degree,teacher
+990,Married,Associate's Degree,pilot
+991,Single,Bachelor's Degree,pilot
+992,Divorced,Master's Degree,artist
+993,Separated,Associate's Degree,teacher
+994,Widowed,Master's Degree,pilot
+995,Widowed,Bachelor's Degree,doctor
+996,Widowed,Associate's Degree,artist
+997,Widowed,Doctorate,teacher
+998,Married,Doctorate,doctor
+999,Divorced,Doctorate,doctor
+1000,Single,Doctorate,artist
